@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pacific Front 自动排阵与游玩
+// @name         Pacific Front 自动排阵与游玩（北美NA服务器）
 // @namespace    local.pacific-front
 // @version      1.2.2
 // @description  使用页面原有预测引擎，自动进行当前行动；支持只读预览和停止。
